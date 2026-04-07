@@ -1,2 +1,2 @@
 # Lab_0_Session_Introduction_ESG_Analytics_python
-By the end of this lab, you will be able to:  Get familiar with basic Python code and the main data‑science libraries Load, explore, and clean ESG datasets using Pandas Calculate and interpret key ESG metrics and scores Visualize ESG data using Matplotlib and Seaborn Perform simple statistical analysis on ESG variables
+This lab was created to help Illinois Tech students get familiar with basic Python code and the main data‑science libraries; load, explore, and clean ESG datasets using Pandas; calculate and interpret key ESG metrics and scores; visualize ESG data using Matplotlib and Seaborn Perform simple statistical analysis on ESG variables
